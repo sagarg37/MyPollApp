@@ -1,0 +1,2 @@
+# MyPollApp
+django website
